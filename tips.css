@@ -27,7 +27,7 @@ img, object {
 	min-height: 100%;
 }
 .pimg1 {
-	position: relative;
+	position: absolute;
 	opacity: 0.70;
 	background-position: center;
 	background-size: cover;
