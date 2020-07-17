@@ -18,9 +18,9 @@ a {
 
 }
 
-img { 
-	max-height: 100%;
-	max-width: 100%;
+img, object { 
+	max-height: 90%;
+	max-width: 90%;
 }
 .pimg1 {
 	background-image:url('./forgregoryjohnson/gjj.jpg');
