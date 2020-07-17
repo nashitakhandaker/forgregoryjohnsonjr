@@ -18,7 +18,7 @@ a {
 
 }
 .pimg1 {
-	background-image:url('../forgregoryjohnson/gjj.jpg');
+	background-image:url('./forgregoryjohnson/gjj.jpg');
 	min-height: 100%;
 }
 .pimg1 {
