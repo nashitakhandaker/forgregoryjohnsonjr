@@ -27,38 +27,25 @@ h1 {
 	list-style: none;
 	margin: 20px 30px;
 	display: inline-block;
-	font-size: 60px;
+	font-size: 40px;
 	padding: 20px 20px;
 	color: red;
-	border: 1px solid #fff;
+	border: 1px solid #292929;
 	border-radius: 50%;
 	transition: .5s;
 }
 
 .media li:hover {
-	color: #292929;
-	border: 1px solid #292929;
+	color: #fff;
+	border: 1px solid #fff;
 	transition: .5s;
 }
-
-.other {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-53%, 20%);
-	text-decoration: none;	
-	font-size: 40px;
-}
-
-.other li {
-	list-style: none;
-	font-size: 40px;
-}
-
 a {
 	text-decoration: none;
 	color: red;
 }
+
+
 
 .footer {
   position: fixed;
