@@ -58,8 +58,14 @@ a {
 }
 
 .footer {
-	text-align: center;
-	transform: translate(0%, 850%);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #EAE1DF
+  color: white;
+  text-align: center;
 }
+
 
 
