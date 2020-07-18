@@ -19,6 +19,19 @@ a {
 	color: red;
 }
 
+.pimg1 {
+	background-image:url('../forgregoryjohnson/gjj.jpg');
+	min-height: 100%;
+}
+
+.pimg1 {
+	position: relative;
+	opacity: 0.70;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
 
 .section {
 	
@@ -35,7 +48,29 @@ a {
 	color:#ddd;
 }
 
-.footer {
+.ptext {
+	position: absolute;
+	top: 50%;
+	width: 100%;
 	text-align: center;
+	color:#000;
+	font-size: 27px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
 }
 
+.ptext .border {
+	background-color: #111;
+	color: #fff;
+	padding: 20px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #EAE1DF;
+  color: black;
+  text-align: center;
+}
