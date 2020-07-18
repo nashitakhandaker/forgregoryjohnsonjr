@@ -47,12 +47,12 @@ h1 {
 	left: 50%;
 	transform: translate(-53%, 20%);
 	text-decoration: none;	
-	font-size: 35px;
+	font-size: 50px;
 }
 
 .other li {
 	list-style: none;
-	font-size: 35px;
+	font-size: 50px;
 }
 
 a {
