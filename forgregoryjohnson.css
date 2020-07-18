@@ -27,7 +27,7 @@ h1 {
 	list-style: none;
 	margin: 50px 50px;
 	display: inline-block;
-	font-size: 40px;
+	font-size: 60px;
 	padding: 20px 20px;
 	color: red;
 	border: 1px solid #fff;
@@ -47,12 +47,12 @@ h1 {
 	left: 50%;
 	transform: translate(-53%, 20%);
 	text-decoration: none;	
-	font-size: 50px;
+	font-size: 40px;
 }
 
 .other li {
 	list-style: none;
-	font-size: 50px;
+	font-size: 40px;
 }
 
 a {
